@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: pan-st-jude-shot-2021-07-15.png
+    image: ""
 ---
 Haitao Pan is a professor of Biostatistics Departmnet at St. Jude Children's Research Hospital. 
 
