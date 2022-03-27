@@ -41,4 +41,6 @@ content:
   email: test@example.org
 design:
   columns: "2"
+  background:
+    image: pan-st-jude-shot-2021-07-15.png
 ---
